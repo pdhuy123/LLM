@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+torch
+faiss-cpu
+streamlit
+requests
+tqdm
+pypdf
+beautifulsoup4
